@@ -1,0 +1,100 @@
+body{
+    background-color: lightskyblue;
+    color: white;
+}
+h1{
+    font-family: serif;
+    font-size: 500%;
+    text-align: center;
+    text-shadow: 3px 3px 1px black;
+}
+#centro{
+    float: left;
+    text-align: right;
+    font-size: 180%;
+    width: 19%;
+    font-family: cursive;
+    text-shadow: 3px 2px 1px black;
+}
+#row{
+    float: right;
+    text-align: left;
+    font-size: 180%;
+    width: 23%;
+    font-family: cursive;
+    text-shadow: 3px 2px 1px black;
+}
+#slideshow{
+    display: block;
+    margin: 0 auto;
+    width: 40%;
+}
+#tabella {
+    font-size: 180%;
+    text-shadow: 3px 2px 1px black;
+    font-family: serif;
+    position: relative;
+    width: 100%;
+    top: 80px;
+    margin: 0 auto;
+    display: table;
+    
+}
+.parola{
+    width: 2.5%;
+    padding-bottom: 1.99%;
+    text-align: center;
+    background-color: blue;
+    border-left: 3px solid orangered;
+    border-right: 3px solid orangered;
+}
+#george{
+    clear: both;
+    height: auto;
+}
+#immagineetesto{
+    display: flex;
+    width: 47%    
+}
+#testo{
+    position: relative;
+    left: 0px;
+    font-size: 106%;
+    text-shadow: 2.5px 1px 1px black;
+    font-family: cursive;
+    padding: 6px;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+    border-right: 5px solid black;
+    border-left: 5px solid gray;
+    background-color: gray;
+}
+footer{
+    background-color: darkslategrey;
+    position: relative;
+    top: 60px;
+    display: flex;
+    align-items: center;
+}
+.fondo{
+    position: relative;
+    width: 100%;
+}
+#scritteinfondo{
+    font-style: serif;
+    text-align: center;
+    right: 70px;
+    border-left: 74px solid darkslategrey;
+    border-right: 60px solid darkslategrey;
+}
+#asd{
+    position: relative;
+    text-align: center;
+    font-style: serif;
+    font-size: 180%;
+    border-right: 30px solid darkslategrey;
+}
+#como{
+    text-align: right;
+    border-right: 40px solid darkslategrey;
+}
